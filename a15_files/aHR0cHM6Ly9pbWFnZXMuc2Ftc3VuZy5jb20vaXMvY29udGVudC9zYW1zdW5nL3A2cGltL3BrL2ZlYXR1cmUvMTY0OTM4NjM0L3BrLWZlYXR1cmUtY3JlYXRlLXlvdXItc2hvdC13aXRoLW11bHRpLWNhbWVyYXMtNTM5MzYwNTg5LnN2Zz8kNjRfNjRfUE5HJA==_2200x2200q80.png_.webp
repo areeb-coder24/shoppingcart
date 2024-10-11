@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="spec_icon" data-name="spec icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 10;
+        stroke-width: 1.0293px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke: #000;
+      }
+
+      .cls-4 {
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Galaxy_A53_A34" data-name="Galaxy A53 / A34">
+    <rect class="cls-1" x="0" y="0" width="96" height="96"/>
+    <g>
+      <circle class="cls-2" cx="28.9104" cy="26.6986" r="10.7032"/>
+      <circle class="cls-2" cx="28.9104" cy="53.9977" r="10.7032"/>
+      <circle class="cls-2" cx="28.9104" cy="81.2968" r="10.7032"/>
+      <circle class="cls-3" cx="50.6895" cy="39.5498" r="2.374"/>
+    </g>
+  </g>
+  <path class="cls-4" d="m6,92V16c0-5.5,4.5-10,10-10h76"/>
+</svg>
